@@ -106,10 +106,6 @@
 
 ---
 
-<h3 align="left">🌟 Certifications:</h3>
-- [Certification Name - Platform/Organization] (e.g., AWS Cloud Practitioner – Amazon Web Services) *(If applicable)*
-
----
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
