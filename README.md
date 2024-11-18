@@ -1,13 +1,16 @@
-<h1 align="center">Hi 👋, I'm Mohamed Amine SADIQ</h1>
-<h3 align="center">A passionate Software & Data Engineer from Morocco</h3>
+<h1 align="center">Hi 👋, I'm Mohamed Amine SADIQ</h1> <h3 align="center">A passionate Software & DATA engineer from Morocco</h3>
+🔭 I’m currently working on building scalable data pipelines and designing data-driven software solutions.
 
-- 🌱 I’m currently learning **AWS, GCP, and advanced Big Data technologies**
+🌱 I’m currently learning AWS, GCP, and advanced data engineering tools like Apache Beam and Presto.
 
-- 👨‍💻 All of my projects are available at [mohamedaminesadiq.com](http://mohamedaminesadiq.com)
+👯 I’m looking to collaborate on open-source projects related to big data, machine learning, and cloud-native applications.
 
-- 📫 How to reach me **aminesadiq05@gmail.com**
+🤝 I’m looking for help with optimizing large-scale distributed systems and exploring real-time analytics platforms.
 
----
+👨‍💻 All of my projects are available at mohamedaminesadiq.com.
+
+📫 How to reach me aminesadiq05@gmail.com.
+
 
 <h3 align="left">🛠️ Technical Skills:</h3>
 <p align="left">
