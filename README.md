@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Amine SADIQ</h1> <h3 align="center">A passionate Software & DATA engineer from Morocco</h3>
+
 🔭 I’m currently working on building scalable data pipelines and designing data-driven software solutions.
 
 🌱 I’m currently learning AWS, GCP, and advanced data engineering tools like Apache Beam and Presto.
