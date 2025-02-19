@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mohamed Amine SADIQ</h1> <h3 align="center">A passionate Software & DATA engineer from Morocco</h3>
 
-🔭 I’m currently working on building scalable data pipelines and designing data-driven software solutions.
+🔭 I’m currently working on building scalable software solutions.
 
-🌱 I’m currently learning AWS, GCP, and advanced data engineering tools like Apache Beam and Presto.
+🌱 I’m currently learning AZURE, AWS, and advanced data engineering tools like Apache airflow and Kafka.
 
 👯 I’m looking to collaborate on open-source projects related to big data, machine learning, and cloud-native applications.
 
 🤝 I’m looking for help with optimizing large-scale distributed systems and exploring real-time analytics platforms.
 
-👨‍💻 All of my projects are available at mohamedaminesadiq.com.
+👨‍💻 All of my projects are available at mohamedaminesadiq.me.
 
 📫 How to reach me aminesadiq05@gmail.com.
 
@@ -83,12 +83,6 @@
 
 <h3 align="left">📂 Professional Experiences:</h3>
 
-- **Data Engineer/Analyst** (*Internship*)  
-  <em>Groupe Auto Hall, Casablanca, Morocco | June 2023 – August 2023</em>  
-  - Designed a star-schema data warehouse for centralized commercial data management.  
-  - Automated ETL workflows using Apache Airflow.  
-  - Built dynamic dashboards with Power BI to monitor KPIs.  
-  - Applied machine learning models to predict trends and support decision-making.
 
 - **Full Stack Developer** (*Internship*)  
   <em>Ministry of Interior, Berrechid, Morocco | July 2023 – August 2023</em>  
@@ -104,9 +98,7 @@
   - Built a mobile taxi application with Flutter and Firebase, integrating Google Maps API for real-time navigation.  
   - Developed an admin web panel using Angular for managing rides and users.
 
-- **Customer Segmentation for Targeted Marketing:**  
-  - Applied K-means clustering to segment banking customers for optimized marketing campaigns.  
-  - Deployed the model using FastAPI with a front-end in HTML, CSS, and JavaScript.
+
 
 ---
 
